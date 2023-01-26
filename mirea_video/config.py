@@ -1,0 +1,3 @@
+class CDATA:
+    TOKEN = "AIzaSyCAEfH5lRn_VJ-x7T6ascI9ad6DkGJBEaI"
+    CHANNEL_ID = "UClVZx_AWcLq8cXViG9NSXAA"
